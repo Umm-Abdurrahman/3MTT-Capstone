@@ -42,25 +42,18 @@ Bar charts depicting the monthly total deaths globally.
 # Prerequisites
 
 To run the notebook, ensure you have the following Python libraries installed:
-
-# NumPy
-
-# pandas
-
-# matplotlib
-
-# seaborn
-
-# scikit-learn
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
 
 You can install them using pip:
-
-pip install numpy pandas matplotlib seaborn scikit-learn
+!pip install numpy pandas matplotlib seaborn scikit-learn
 
 # Usage
 
 Clone this repository:
-
 git clone https://github.com/Ummm-Abdurrahman/3MTT-Capstone/covid19-analysis.git
 
 Navigate to the project directory and open the notebook:
