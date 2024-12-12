@@ -54,7 +54,7 @@ You can install them using pip:
 # Usage
 
 Clone this repository:
-git clone https://github.com/Ummm-Abdurrahman/3MTT-Capstone/covid19-analysis.git
+git clone https://github.com/Ummm-Abdurrahman/3MTT-Capstone.git
 
 Navigate to the project directory and open the notebook:
 
